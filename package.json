@@ -1,0 +1,11 @@
+{
+  "name": "stop_ec2",
+  "version": "1.0.0",
+  "description": "scripts for ec2 instance stop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
